@@ -1,4 +1,4 @@
-# Autonomous Learning Platform for Educators and Students
+# Schuuul - Autonomous Learning Platform for Educators and Students
 
 ## Team Members
 
@@ -6,28 +6,27 @@
 - Maria Näf
 - Nathalie Kern
 - Pascal Ammeter
-- Titouan Chiquet
 
 ## Overview
 
 Addressing the shortage of skilled educators in Switzerland, this project proposes an autonomous platform to aid teachers and students. By integrating generative AI, it aims to streamline lesson planning and enhance educational engagement.
 
-## Objectives
+## Content of this repository
 
 - Technical implementation of the prototype.
 
 ## Getting Started
 
-Follow these steps to set up your local development environment:
+Follow these steps to run the application locally:
 
 ### Prerequisites
 
-- Python must be installed on your system.
-- Git must be installed to clone the repository.
+- Python
+- Git
 
 ### Setup
 
-Here's how you can set up your development environment:
+Here's how you can run the application locally:
 
 ```bash
 # Clone the repository
