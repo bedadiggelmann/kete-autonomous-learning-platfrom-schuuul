@@ -44,9 +44,9 @@ source venv/bin/activate # For Unix or Linux systems
 # Install the project dependencies from 'requirements.txt'
 pip install -r requirements.txt
 
-# Create a '.env' file in the 'kete' directory with the following content
+# Create a '.env' file in the 'kete-autonomous-learning-platfrom-schuuul' directory with the following content
 echo "OPENAI_API_KEY=XXX" >> .env
 
-# Run the local development server or script (specify the script if it's not 'app.py')
+# Run the local development instance
 streamlit run project/app.py
 ```
