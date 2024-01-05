@@ -26,8 +26,6 @@ Follow these steps to run the application locally:
 
 ### Setup
 
-Here's how you can run the application locally:
-
 ```bash
 # Clone the repository
 git clone <repository-url>
